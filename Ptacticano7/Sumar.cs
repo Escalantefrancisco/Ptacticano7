@@ -11,6 +11,9 @@ namespace Ptacticano7
       public void operar () 
         {
             resultado = valorUno + getValorDos();
+            resultado = valorUno + getValorDos();
+
+
         }
     }
 }
